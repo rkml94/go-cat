@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Best Time To Wear A Striped Sweater.CSharp", "The Best Time To Wear A Striped Sweater.CSharp.csproj", "{95001189-0C4B-5AB7-A9DE-1EEFED39DD91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Best Time To Wear A Striped Sweater.CSharp.Editor", "The Best Time To Wear A Striped Sweater.CSharp.Editor.csproj", "{088DA181-BAB1-69B9-4A8E-08F8040584AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95001189-0C4B-5AB7-A9DE-1EEFED39DD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95001189-0C4B-5AB7-A9DE-1EEFED39DD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95001189-0C4B-5AB7-A9DE-1EEFED39DD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95001189-0C4B-5AB7-A9DE-1EEFED39DD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088DA181-BAB1-69B9-4A8E-08F8040584AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088DA181-BAB1-69B9-4A8E-08F8040584AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088DA181-BAB1-69B9-4A8E-08F8040584AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088DA181-BAB1-69B9-4A8E-08F8040584AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
